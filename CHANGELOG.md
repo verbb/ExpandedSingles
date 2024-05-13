@@ -1,15 +1,13 @@
 # Changelog
 
-## 3.0.0-beta.2 - 2024-03-27
-
-### Fixed
-- Fix a compatibility issue with Formie and Entries fields.
-
-## 3.0.0-beta.1 - 2024-03-04
+## 3.0.0 - 2024-05-13
 
 ### Changed
 - Now requires PHP `8.2.0+`.
-- Now requires Craft `5.0.0-beta.1+`.
+- Now requires Craft `5.0.0+`.
+
+### Fixed
+- Fix a compatibility issue with Formie and Entries fields.
 
 ## 2.0.5 - 2023-08-03
 
