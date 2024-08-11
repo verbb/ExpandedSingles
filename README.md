@@ -15,5 +15,5 @@ Expanded Singles is licensed under the MIT license, meaning it will always be fr
 <h2></h2>
 
 <a href="https://verbb.io" target="_blank">
-    <img width="100" src="https://verbb.io/assets/img/verbb-pill.svg">
+    <img width="101" height="33" src="https://verbb.io/assets/img/verbb-pill.svg" alt="Verbb">
 </a>
