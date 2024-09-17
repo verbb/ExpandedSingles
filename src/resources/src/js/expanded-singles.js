@@ -7,7 +7,7 @@
 
 
 (function($) {
-    var $siteMenuBtn = $('#page-container').find('.sitemenubtn:first');
+    var $siteMenuBtn = $('#global-header #crumbs .menubtn[aria-controls="site-crumb-menu"');
 
     // Get the current site, as selected by the user, or stored in Cookie/LocalStorage
     var storedSiteId = Craft.cp.getSiteId();
