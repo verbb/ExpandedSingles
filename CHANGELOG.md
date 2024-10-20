@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.0.1 - 2024-10-20
+
+### Fixed
+- Fix an error for multi-site installs, where “Redirect to Entry” was enabled.
+
 ## 3.0.0 - 2024-05-13
 
 ### Changed
